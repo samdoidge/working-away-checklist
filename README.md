@@ -1,7 +1,14 @@
 # Working Away Checklist
 
+
+## Front pocket
 - Socks
+
+## Rear pocket
 - Pants
+
+## Main zipper
+
 - 3 Trousers
 - Gym Shorts
 - Gym T-shirts
