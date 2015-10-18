@@ -19,4 +19,9 @@
 - Shampoo
 - Bodywash
 - Washing sponge thing
+- Protein
+- Protein Shake
+- Hair product
+- Toothrush
+- Toothpaste
 
