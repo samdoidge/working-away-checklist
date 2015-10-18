@@ -2,5 +2,4 @@
 
 - Socks
 - Pants
-- 
 
